@@ -1,4 +1,4 @@
-module github.com/fsouza/go-dockerclient
+module github.com/serverlessresearch/go-dockerclient
 
 go 1.12
 
